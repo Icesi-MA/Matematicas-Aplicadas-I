@@ -15,12 +15,12 @@ project:
     - name: "Editores: Angela Villota y Aníbal Sosa"
   # Template repository. When creating a course from this template,
   # change this URL to the new course repository.
-  github: https://github.com/Icesi-MA/bookTemplate
+  github: https://github.com/Icesi-MA/Matematicas-Aplicadas-I
   jupyter:
     binder:
       # Template Binder repository. When creating a course from this template,
       # change this value to "owner/repository" for the new course.
-      repo: Icesi-MA/bookTemplate
+      repo: Icesi-MA/Matematicas-Aplicadas-I
       ref: main
 
 site:
@@ -28,7 +28,7 @@ site:
   options:
     logo: _static/icesi-logo.svg
     logo_dark: _static/icesi-logo-dark.svg
-    logo_text: Matemáticas Aplicadas X
+    logo_text: Matemáticas Aplicadas I
     logo_url: https://www.icesi.edu.co/
     logo_alt: Universidad Icesi
     style: _static/icesi.css
