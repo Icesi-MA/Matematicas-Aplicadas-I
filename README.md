@@ -1,4 +1,4 @@
-# Matemáticas aplicadas X 
+# Matemáticas aplicadas 1 
 
 **Departamento de Ciencias Físicas, Exactas & Energía / FIDCA**
 
