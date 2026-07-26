@@ -24,6 +24,7 @@ project:
       ref: main
 
   toc:
+    - file: README.md
     - title: "Unidad 1: Aproximaciones, desigualdades y comportamiento de funciones"
       children:
         - file: Notebooks/Aplicadas1_Cuad1.ipynb
