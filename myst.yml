@@ -29,22 +29,29 @@ project:
       children:
         - file: Notebooks/Aplicadas1_Cuad1.ipynb
         - file: Notebooks/Aplicadas1_Cuad2.ipynb
+	- file: Entregas/Matemáticas Aplicadas I-Entrega 1.ipynb
         - file: Notebooks/Aplicadas1_Cuad3.ipynb
         - file: Notebooks/Aplicadas1_Cuad4.ipynb
+        - file: Entregas/Matemáticas Aplicadas I-Entrega 2.ipynb
         - file: Notebooks/Aplicadas1_Cuad5.ipynb
         - file: Notebooks/Aplicadas1_Cuad6.ipynb
+        - file: Entregas/Matemáticas Aplicadas I-Entrega 3.ipynb
     - title: "Unidad 2: Operadores diferenciales, tasas de cambio, aproximaciones de primer orden y optimización en una variable"
       children:
         - file: Notebooks/Aplicadas1_Cuad7.ipynb
         - file: Notebooks/Aplicadas1__Cuad8.ipynb
+        - file: Entregas/Matemáticas Aplicadas I-Entrega 4.ipynb
         - file: Notebooks/Aplicadas1_Cuad9.ipynb
         - file: Notebooks/Aplicadas1_Cuad10.ipynb
+        - file: Entregas/Matemáticas Aplicadas I-Entrega 5.ipynb
     - title: "Unidad 3: Operadores integrales, tasas de cambio y condiciones iniciales"
       children:
         - file: Notebooks/Aplicadas1_Cuad11.ipynb
         - file: Notebooks/Aplicadas1_Cuad12.ipynb
+        - file: Entregas/Matemáticas Aplicadas I-Entrega 6.ipynb
         - file: Notebooks/Aplicadas1_Cuad13.ipynb
         - file: Notebooks/Aplicadas1_Cuad14.ipynb
+        - file: Entregas/Matemáticas Aplicadas I-Entrega 7.ipynb
 site:
   template: book-theme
   options:
