@@ -16,3 +16,7 @@ La labor editorial de este Jupyter Book es realizada por **Angela Villota** y **
 
 - **Angela Villota**: apvillota@icesi.edu.co
 - **Aníbal Sosa**: uasosa@icesi.edu.co
+
+## Licencia
+
+Este proyecto utiliza un esquema de licenciamiento diferenciado. El contenido textual —incluyendo explicaciones, capítulos y material narrativo— está disponible bajo la licencia [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.es). El código, los bloques ejecutables y la lógica de los notebooks están disponibles bajo la [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/). Ambos componentes pueden utilizarse y adaptarse con fines no comerciales, respetando las condiciones de atribución y distribución establecidas en cada licencia. Consulte el archivo [LICENSE](LICENSE) para conocer los términos completos.

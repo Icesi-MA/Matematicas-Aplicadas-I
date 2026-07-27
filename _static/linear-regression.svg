@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Ejemplo de regresión lineal</title>
+  <desc id="desc">Diagrama de dispersión con una recta de ajuste ascendente.</desc>
+  <rect width="640" height="400" fill="#fff"/>
+  <g stroke="#d8dee8" stroke-width="1">
+    <path d="M80 60V340M180 60V340M280 60V340M380 60V340M480 60V340M580 60V340"/>
+    <path d="M80 80H580M80 145H580M80 210H580M80 275H580M80 340H580"/>
+  </g>
+  <g stroke="#24364b" stroke-width="3" fill="none">
+    <path d="M80 55V340H590"/>
+    <path d="M70 70L565 300" stroke="#e45756"/>
+  </g>
+  <g fill="#1f77b4" stroke="#fff" stroke-width="2">
+    <circle cx="115" cy="95" r="7"/><circle cx="155" cy="125" r="7"/>
+    <circle cx="205" cy="112" r="7"/><circle cx="245" cy="165" r="7"/>
+    <circle cx="295" cy="180" r="7"/><circle cx="335" cy="205" r="7"/>
+    <circle cx="385" cy="198" r="7"/><circle cx="425" cy="250" r="7"/>
+    <circle cx="475" cy="265" r="7"/><circle cx="525" cy="285" r="7"/>
+  </g>
+  <g fill="#24364b" font-family="sans-serif" font-size="18">
+    <text x="325" y="382" text-anchor="middle">x</text>
+    <text x="28" y="205" text-anchor="middle" transform="rotate(-90 28 205)">y</text>
+  </g>
+</svg>
