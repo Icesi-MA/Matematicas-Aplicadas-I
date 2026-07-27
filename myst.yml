@@ -36,6 +36,7 @@ project:
         - file: Notebooks/Aplicadas1_Cuad5.ipynb
         - file: Notebooks/Aplicadas1_Cuad6.ipynb
         - file: Entregas/Matemáticas Aplicadas I-Entrega 3.ipynb
+        - file: Jornadas/Matemáticas Aplicadas I-1raJRP.ipynb
     - title: "Unidad 2: Operadores diferenciales, tasas de cambio, aproximaciones de primer orden y optimización en una variable"
       children:
         - file: Notebooks/Aplicadas1_Cuad7.ipynb
@@ -44,6 +45,7 @@ project:
         - file: Notebooks/Aplicadas1_Cuad9.ipynb
         - file: Notebooks/Aplicadas1_Cuad10.ipynb
         - file: Entregas/Matemáticas Aplicadas I-Entrega 5.ipynb
+        - file: Jornadas/Matemáticas Aplicadas I-2daJRP.ipynb
     - title: "Unidad 3: Operadores integrales, tasas de cambio y condiciones iniciales"
       children:
         - file: Notebooks/Aplicadas1_Cuad11.ipynb
@@ -52,6 +54,7 @@ project:
         - file: Notebooks/Aplicadas1_Cuad13.ipynb
         - file: Notebooks/Aplicadas1_Cuad14.ipynb
         - file: Entregas/Matemáticas Aplicadas I-Entrega 7.ipynb
+        - file: Jornadas/Matemáticas Aplicadas I-3raJRP.ipynb
 site:
   template: book-theme
   options:
