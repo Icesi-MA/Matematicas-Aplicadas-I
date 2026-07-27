@@ -29,7 +29,7 @@ project:
       children:
         - file: Notebooks/Aplicadas1_Cuad1.ipynb
         - file: Notebooks/Aplicadas1_Cuad2.ipynb
-	- file: Entregas/Matemáticas Aplicadas I-Entrega 1.ipynb
+        - file: Entregas/Matemáticas Aplicadas I-Entrega 1.ipynb
         - file: Notebooks/Aplicadas1_Cuad3.ipynb
         - file: Notebooks/Aplicadas1_Cuad4.ipynb
         - file: Entregas/Matemáticas Aplicadas I-Entrega 2.ipynb
